@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa Marzeń – Twój Asystent Podróży</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(to bottom, #ffeaa7, #74b9ff);
+            color: #2d3436;
+        }
+        header {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 2rem;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #0984e3;
+        }
+        .section {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            margin-top: 2rem;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding: 1rem;
+            background-color: rgba(255, 255, 255, 0.6);
+        }
+        a {
+            color: #0984e3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Mapa Marzeń</h1>
+    <p><strong>Tobiasz – Twój osobisty asystent podróży</strong></p>
+    <p>24 lata | 40+ odwiedzonych krajów | Pomogę zaplanować Twoją wymarzoną podróż</p>
+</header>
+
+<section class="section">
+    <h2>Co oferuję?</h2>
+    <ul>
+        <li>Szukanie lotów i hoteli</li>
+        <li>Planowanie trasy</li>
+        <li>Tworzenie planu podróży dzień po dniu</li>
+        <li>Rezerwacje</li>
+        <li>Podróże budżetowe i premium</li>
+    </ul>
+</section>
+
+<section class="section">
+    <h2>Kontakt</h2>
+    <p>Masz pytania lub chcesz zacząć planować podróż?</p>
+    <p><strong>Napisz do mnie:</strong> <a href="mailto:tobiaszsawecki21@wp.pl">tobiaszsawecki21@wp.pl</a></p>
+</section>
+
+<footer>
+    &copy; 2025 Mapa Marzeń – Tobiasz S.
+</footer>
+
+</body>
+</html>
